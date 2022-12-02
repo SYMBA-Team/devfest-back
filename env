@@ -1,0 +1,9 @@
+BACK_MONGODB_URI= 
+BACK_MONGODB_NAME=
+STATIC=
+BACK_SECRET=
+BACK_EmailHost=
+BACK_EmailPort=
+BACK_EmailUser=
+BACK_EmailPass=
+NODE_ENV="production"
